@@ -1,0 +1,10 @@
+{
+  "name": "unila-academic-skills",
+  "version": "1.0.0",
+  "description": "Paket AI Agent Skills untuk penulisan, pemformatan DOCX Panduan KTI Unila 2020, penyuntingan EYD V/KBBI, audit integritas klaim ilmiah, dan simulasi sidang skripsi/jurnal.",
+  "license": "MIT",
+  "skills": [
+    "skills/panduan-kti-unila",
+    "skills/riset-dan-sidang-ilmiah"
+  ]
+}

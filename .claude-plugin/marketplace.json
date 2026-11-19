@@ -1,0 +1,15 @@
+{
+  "name": "unila-academic-skills",
+  "description": "Panduan KTI Unila 2020 DOCX Engine + Penyunting EYD V/KBBI + Metodologi Riset & Simulasi Sidang Ilmiah",
+  "plugins": [
+    {
+      "name": "unila-academic-skills",
+      "description": "2 Standalone Skills: panduan-kti-unila dan riset-dan-sidang-ilmiah",
+      "source": ".",
+      "skills": [
+        "skills/panduan-kti-unila",
+        "skills/riset-dan-sidang-ilmiah"
+      ]
+    }
+  ]
+}
