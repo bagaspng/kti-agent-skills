@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Temporary Office & OS files
+~$*.docx
+~$*.pptx
+~$*.xlsx
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
